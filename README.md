@@ -26,8 +26,8 @@ Please note:
 - Some conversions of HD texture packs may takes a while
 - You need a device with corresponding enough RAM (like the file size and content of the texture pack), because the convert it is not stored in a temporary storage, but in the RAM memory
 - Shaders or OptiFine or 3d textures or mods or datapacks or custom models or fonts are not supported, only classic Vanilla textures
-- Snapshots or never versions may are also not supported
-- If textures of sprites (For instance banner pattern, painting and particle) are only partially available, the missing will be transparent
+- Snapshots or newer versions may also not be supported
+- If textures of sprites (For instance banner pattern, painting and particle) are only partially available, the missing pats will be transparent
 - Please reopen Minecraft after selecting the converted texture pack, because in the current version it seems to be a bug to reload the texture cache (Otherwise it's possible that you will have a mix between your previous and new texture pack, which can lead to appearance bugs that would not occur)
 - If it crashed, it doesn't necessarily have to do with the texture pack and this converter can't do much if it should be a bug in Minecraft
 - Please don't report Java or Bedrock version changes
