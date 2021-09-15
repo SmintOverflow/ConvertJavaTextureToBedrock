@@ -61,7 +61,7 @@ Internet Explorer or old Edge are not supported!
 
 The latest version is available through Github page
 
-Look at https://ozelot379.github.io/ConvertJavaTextureToBedrock
+Look at https://smintoverflow.github.io/ConvertJavaTextureToBedrock/index.js
 
 ### Docker
 
@@ -76,8 +76,8 @@ Look at https://hub.docker.com/r/ozelot379/convert-minecraft-java-texture-to-bed
 
 ## CLI
 
-Look at https://github.com/ozelot379/ConvertJavaTextureToBedrockCli
+Look at https://npm.io/package/@ozelot379/convert-java-texture-to-bedrock
 
 ## API
 
-Look at https://github.com/ozelot379/ConvertJavaTextureToBedrockApi
+Look at https://npm.io/package/@ozelot379/convert-java-texture-to-bedrock
