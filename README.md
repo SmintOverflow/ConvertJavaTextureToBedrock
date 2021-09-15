@@ -77,7 +77,9 @@ Look at https://hub.docker.com/r/ozelot379/convert-minecraft-java-texture-to-bed
 ## CLI
 
 Look at https://npm.io/package/@ozelot379/convert-java-texture-to-bedrock
+or https://cnpmjs.org/package/@ozelot379/convert-minecraft-java-texture-to-bedrock-cli
 
 ## API
 
 Look at https://npm.io/package/@ozelot379/convert-java-texture-to-bedrock
+or https://cnpmjs.org/package/@ozelot379/convert-minecraft-java-texture-to-bedrock-api
