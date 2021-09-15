@@ -61,7 +61,7 @@ Internet Explorer or old Edge are not supported!
 
 The latest version is available through Github page
 
-Look at https://smintoverflow.github.io/JavaToPE/index.js
+Look at https://smintoverflow.github.io/JavaToPE/
 
 ### Docker
 
