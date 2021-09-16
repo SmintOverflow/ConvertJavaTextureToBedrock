@@ -1,5 +1,5 @@
 {
-  "root": "/"
+  "root": "."
 },
 {
     "encoding": "US-ASCII"
@@ -11,4 +11,8 @@
   "routes": {
     "/*.html": "index.html",
   }
+},
+{
+  "headers":
+  {"Cache-Control": "max-age=31536000"}
 }
