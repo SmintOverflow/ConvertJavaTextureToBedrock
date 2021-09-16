@@ -7,12 +7,7 @@
 {
   "clean_urls": true
 },
-
-  "routes": {
-    "/*.html": "index.html",
-  }
-},
 {
   "headers":
-  {"Cache-Control": "max-age=31536000"}
-}
+  {"Cache-Control": "max-age=31536000"},
+},
