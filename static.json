@@ -1,0 +1,14 @@
+{
+  "root": "/"
+},
+{
+    "encoding": "US-ASCII"
+},
+{
+  "clean_urls": true
+},
+
+  "routes": {
+    "/*.html": "index.html",
+  }
+}
