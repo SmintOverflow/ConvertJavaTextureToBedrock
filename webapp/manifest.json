@@ -4,6 +4,7 @@
   "description": "Web app for converting Minecraft Java texture packs to Bedrock texture packs",
   "dir": null,
   "lang": null,
+  "scope": "/",
   "display": "standalone",
   "orientation": "any",
   "start_url": "/index.html",
