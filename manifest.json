@@ -7,7 +7,7 @@
   "scope": "/",
   "display": "standalone",
   "orientation": "any",
-  "start_url": "/index.html",
+  "start_url": "/",
   "background_color": "#FFFFFF",
   "theme_color": "#795548",
   "shortcuts": [
@@ -76,6 +76,12 @@
       "src": "android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
