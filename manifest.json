@@ -10,21 +10,6 @@
   "start_url": "https://javatobedrockpwa.herokuapp.com/",
   "background_color": "#FFFFFF",
   "theme_color": "#795548",
-  "shortcuts": [
-    {
-      "name": "ConvertJavaToBedrock",
-      "short_name": "convert",
-      "description": "Convert java texture packs to bedrock.",
-      "url": "/index.html",
-       "icons": [
-    {
-      "src": "/webapp/android-chrome-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-  ],
-    }
-  ],
   "icons": [
     {
       "src": "/webapp/android-chrome-36x36.png",
