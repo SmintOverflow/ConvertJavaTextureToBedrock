@@ -7,7 +7,7 @@
   "scope": "/",
   "display": "standalone",
   "orientation": "any",
-  "start_url": "/",
+  "start_url": "https://javatobedrockpwa.herokuapp.com/",
   "background_color": "#FFFFFF",
   "theme_color": "#795548",
   "shortcuts": [
