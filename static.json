@@ -1,13 +1,10 @@
 {
-  "root": "."
-},
-{
-    "encoding": "US-ASCII"
-},
-{
-  "clean_urls": true
-},
-{
-  "headers":
-  {"Cache-Control": "max-age=31536000"},
-},
+    "root": ".",
+    "logging": {
+        "access": false,
+        "error": "warn"
+    },
+    "headers": {
+        "Cache-Control": "max-age=31536000"
+    }
+}
