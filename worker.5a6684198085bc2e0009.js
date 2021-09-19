@@ -41193,7 +41193,7 @@ object-assign
                 if (
                     ((await this.output.exists(n)) ? ((o = (await this.output.read(n)).toString("utf8")), i.push(new U(n))) : (o = H()),
                     (this.constructor.mcmeta = JSON.parse((await this.output.read(t)).toString("utf8").trim())),
-                    4 !== this.constructor.mcmeta.pack.pack_format && 5 !== this.constructor.mcmeta.pack.pack_format && 6 !== this.constructor.mcmeta.pack.pack_format)
+                    1 !== this.constructor.mcmeta.pack.pack_format && 2 !== this.constructor.mcmeta.pack.pack_format && 3 !== this.constructor.mcmeta.pack.pack_format && 4 !== this.constructor.mcmeta.pack.pack_format && 5 !== this.constructor.mcmeta.pack.pack_format && 6 !== this.constructor.mcmeta.pack.pack_format)
                 )
                     throw new Error(`pack_format ${this.constructor.mcmeta.pack.pack_format} is not supported! Only supports pack_format 4 (v1.13 or v1.14) or 5 (v1.15 or v1.16) or 6 (v1.16.2 - v1.16.x)!`);
                 const a = await this.input.getName();
