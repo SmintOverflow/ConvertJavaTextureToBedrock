@@ -41195,7 +41195,7 @@ object-assign
                     (this.constructor.mcmeta = JSON.parse((await this.output.read(t)).toString("utf8").trim())),
                     1 !== this.constructor.mcmeta.pack.pack_format && 2 !== this.constructor.mcmeta.pack.pack_format && 3 !== this.constructor.mcmeta.pack.pack_format && 4 !== this.constructor.mcmeta.pack.pack_format && 5 !== this.constructor.mcmeta.pack.pack_format && 6 !== this.constructor.mcmeta.pack.pack_format)
                 )
-                    throw new Error(`pack_format ${this.constructor.mcmeta.pack.pack_format} is not supported! Only supports pack_format 4 (v1.13 or v1.14) or 5 (v1.15 or v1.16) or 6 (v1.16.2 - v1.16.x)!`);
+                    throw new Error(`Uncaught Error: Check if your pack is corrupted?`);
                 const a = await this.input.getName();
                 let l = this.constructor.mcmeta.pack.description;
                 l = l
