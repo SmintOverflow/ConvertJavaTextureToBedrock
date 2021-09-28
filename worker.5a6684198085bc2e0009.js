@@ -41193,7 +41193,7 @@ object-assign
                 if (
                     ((await this.output.exists(n)) ? ((o = (await this.output.read(n)).toString("utf8")), i.push(new U(n))) : (o = H()),
                     (this.constructor.mcmeta = JSON.parse((await this.output.read(t)).toString("utf8").trim())),
-                    1 !== this.constructor.mcmeta.pack.pack_format && 2 !== this.constructor.mcmeta.pack.pack_format && 3 !== this.constructor.mcmeta.pack.pack_format && 4 !== this.constructor.mcmeta.pack.pack_format && 5 !== this.constructor.mcmeta.pack.pack_format && 6 !== this.constructor.mcmeta.pack.pack_format)
+                    1 !== this.constructor.mcmeta.pack.pack_format && 2 !== this.constructor.mcmeta.pack.pack_format && 3 !== this.constructor.mcmeta.pack.pack_format && 4 !== this.constructor.mcmeta.pack.pack_format && 5 !== this.constructor.mcmeta.pack.pack_format && 6 !== this.constructor.mcmeta.pack.pack_format && 7 !== this.constructor.mcmeta.pack.pack_format)
                 )
                     throw new Error(`Uncaught Error: Check if your pack is corrupted?`);
                 const a = await this.input.getName();
